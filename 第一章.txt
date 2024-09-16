@@ -1,0 +1,6 @@
+安装配置elasticSearch
+使用docker进行安装。
+先安装一个VMWare虚拟机
+在VMWare虚拟机上安装docker
+然后在用docker安装elasticSearch
+推荐安装es 7.12.1版本
